@@ -7,7 +7,8 @@ Visualization
 1.High-rated apps (4-5 stars) have mostly positive reviews.
 2.Low-rated apps (1-2 stars) show a high proportion of negative reviews.
 3.Neutral reviews are minimal across all groups.
-![Screenshot 2025-02-24 164357](https://github.com/user-attachments/assets/9afbb63e-b791-487a-aa76-ca96ea27a601)
+![Screenshot 2025-02-24 164305](https://github.com/user-attachments/assets/2f199228-0b63-4434-97ed-7602d1a186a0)
+
 
 2.This dual-axis chart compares average installs (left y-axis) and average revenue (right y-axis) for free vs. paid apps across the top 3 categories in the Google Play Store 
 
